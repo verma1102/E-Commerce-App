@@ -1,0 +1,68 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "iPhone 12 Pro",
+            "desc": "Apple iPhone 12th Generation",
+            "price": 69999,
+            "color": "#33505a",
+            "image": "https://m.media-amazon.com/images/I/71MHTD3uL4L._SL1500_.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Pixel 5",
+            "desc": "Google Pixel 5th Generation",
+            "price": 44999,
+            "color": "#00ac51",
+            "image": "https://m.media-amazon.com/images/I/81AqwYyZjzL._SX679_.jpg"
+        },
+        {
+            "id": 3,
+            "name": "MacBook",
+            "desc": "Apple MacBook Air M1",
+            "price": 99999,
+            "color": "#e0bfae",
+            "image": "https://m.media-amazon.com/images/I/71jG+e7roXL._SL1500_.jpg"
+        },
+        {
+            "id": 4,
+            "name": "OnePlus 9 Pro",
+            "desc": "OnePlus 9 Pro 5G",
+            "price": 69999,
+            "color": "#544ee4",
+            "image": "https://m.media-amazon.com/images/I/61LvUvbZGlL._SL1500_.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Airpods Pro",
+            "desc": "Apple Airpods Pro",
+            "price": 20999,
+            "color": "#e3e4e9",
+            "image": "https://m.media-amazon.com/images/I/71zny7BTRlL._SL1500_.jpg"
+        },
+        {
+            "id": 6,
+            "name": "iPad Pro",
+            "desc": "Apple iPad Pro",
+            "price": 71999,
+            "color": "#f73984",
+            "image": "https://m.media-amazon.com/images/I/81Y5WuARqpS._SX679_.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Galaxy Note 20 Ultra",
+            "desc": "Samsung Galaxy Note 20 Ultra",
+            "price": 96999,
+            "color": "#1c1c1c",
+            "image": "https://m.media-amazon.com/images/I/41N5gBlmd5S.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Galaxy Note 10",
+            "desc": "Samsung Galaxy Note 10",
+            "price": 71999,
+            "color": "#7c95eb",
+            "image": "https://m.media-amazon.com/images/I/710H5rWYI0L._SL1500_.jpg"
+        }
+    ]
+}
