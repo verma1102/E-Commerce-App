@@ -1,6 +1,7 @@
-# my_flutter_app1
+# E-Commerce-App
 
-A new Flutter project.
+My New Flutter Project.
+### Includes Cart Functionality
 
 ## Getting Started
 
